@@ -1,0 +1,9 @@
+médecin
+professionel de santé
+examen
+maladie
+traitement
+médicament
+opération
+intervention
+symptôme
